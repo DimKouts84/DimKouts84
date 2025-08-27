@@ -22,11 +22,7 @@
 
 ## 🔧 Tech Stack & Expertise
 
-### 🤖 AI & Machine Learning
-
 ## 🧰 Tech & Tools (at-a-glance)
-
-Legend: 🟢 Core • 🟡 Regular • 🟣 Exploring
 
 | Area | Tools (badges) | Depth |
 |---|---|---|
@@ -37,6 +33,7 @@ Legend: 🟢 Core • 🟡 Regular • 🟣 Exploring
 | **LLM & RAG** | [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white&color=EC4899)](https://openai.com/) [![Llama](https://img.shields.io/badge/Llama%203-000000?style=flat&logo=meta&logoColor=white&color=EC4899)](#)  [![LMStudio](https://img.shields.io/badge/LM%20Studio-000000?style=flat&logo=lmstudio&logoColor=white&color=EC4899)](https://lmstudio.ai/) [![Ollama](https://img.shields.io/badge/Ollama-222222?style=flat&logo=ollama&logoColor=white&color=EC4899)](https://ollama.ai/) [![LangChain](https://img.shields.io/badge/LangChain-patterns-1f6feb?style=flat&color=EC4899)](https://www.langchain.com/) | 🟢🟢🟢🟡 |
 | **Dev & Ops** | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&color=334155)](https://www.docker.com/) [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&color=334155)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&color=334155)](https://github.com/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white&color=334155)](https://fastapi.tiangolo.com/) [![Typer](https://img.shields.io/badge/CLI-Typer-0D9488?style=flat&logo=fastapi&logoColor=white&color=334155)](https://typer.tiangolo.com/)  [![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white&color=334155&v=2)](https://aws.amazon.com/ec2/) [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white&color=334155)](https://ubuntu.com/) | 🟢🟢🟡⚪ |
 | **Testing** | [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white&color=06B6D4)](https://docs.pytest.org/) | 🟢🟢🟡⚪ |
+Legend: 🟢 Core • 🟡 Regular • 🟣 Exploring
     
 ---
 
@@ -53,12 +50,14 @@ Legend: 🟢 Core • 🟡 Regular • 🟣 Exploring
 
 
 ---
-### 🎓 Education & Credentials
+### 🎓 Academic Education
 
 - **Master of Business Administration (MBA)**, Cardiff Metropolitan University `(2018 – 2019)`  
   Specialization: Human Resources Management
 
 - **Bachelor's degree in Health Visiting**, Technologiko Ekpaideutiko Idrima, Athinas `(2003 – 2008)`
+
+### 📖 Continuous Learning 
 
 - **Software Product Management Specialization**, University of Alberta `(2024)`  
   Credential: [BI3T3T0U9IKA](https://www.coursera.org/account/accomplishments/specialization/BI3T3T0U9IKA)
