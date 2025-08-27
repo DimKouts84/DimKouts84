@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Hi — I'm Dimitris (DimKouts84) 👋</h1>
+  <h1>Hi — I'm Dimitris 👋</h1>
   <p><i> Data || Product || Business || AI </i></p>
   <p>📍 Nicosia, Cyprus</p>
 
