@@ -1,10 +1,11 @@
 <div align="center">
   
   <h1>Hi — I'm Dimitris (DimKouts84) 👋</h1>
-  <p><i> Data Nerd | Product Manager | AI Enthusiast </i></p>
+  <p><i> Data || Product || Business || AI </i></p>
+  <p>📍 Nicosia, Cyprus</p>
 
-> I build pragmatic data engineering + LLM pipelines 
-> <br>From web scraping and normalization to knowledge graphs and databases.
+> I bridge technical execution and business strategy to transform data into competitive advantage
+> <br>Building scalable AI-powered data solutions for FinTech & DigitalHealth
 
 
   <a href="https://www.linkedin.com/in/dimitris-koutsomichalis/">
@@ -14,14 +15,14 @@
     <img src="https://img.shields.io/badge/GitHub-Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-  <!-- Profile views (optional) -->
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=DimKouts84&style=flat-square&color=1f6feb" alt="Profile views" />
-
 </div>
 
 
 ---
+
+## 🔧 Tech Stack & Expertise
+
+### 🤖 AI & Machine Learning
 
 ## 🧰 Tech & Tools (at-a-glance)
 
@@ -51,28 +52,24 @@ Legend: 🟢 Core • 🟡 Regular • 🟣 Exploring
 | **Collaboration** | PR discipline, constructive reviews, pairing | Higher code quality; shared ownership |
 
 
-### Ways of working
-- Schema‑first LLM extraction to reduce model “decision space”
-- Human‑in‑the‑loop for correctness on ambiguous steps
-- Prefer small, composable scripts/CLIs over sprawling agents
-
 ---
+### 🎓 Education & Credentials
 
-### 🎓 Education & Certifications
+- **Master of Business Administration (MBA)**, Cardiff Metropolitan University `(2018 – 2019)`  
+  Specialization: Human Resources Management
 
-- **[Your Degree]**, [Your University] `(YYYY – YYYY)`  
-  Focus areas: [e.g., Data Engineering, Information Retrieval, NLP]
-- **[Certification Name]**, [Issuing Organization] `(YYYY)`  
-  Credential: [link-to-certificate]
-- **[Certification or Course]**, [Provider] `(YYYY)`  
-  Highlights: [1–2 outcomes or skills]
+- **Bachelor's degree in Health Visiting**, Technologiko Ekpaideutiko Idrima, Athinas `(2003 – 2008)`
 
-<details>
-  <summary>Tip: Add 1–2 bullet outcomes for each credential</summary>
+- **Software Product Management Specialization**, University of Alberta `(2024)`  
+  Credential: [BI3T3T0U9IKA](https://www.coursera.org/account/accomplishments/specialization/BI3T3T0U9IKA)
 
-  - Example: Designed and normalized a relational schema for a multi-source ingestion pipeline
-  - Example: Built a small RAG demo with grounding on a structured knowledge base
-</details>
+- **CS50: Introduction to Computer Science**, Harvard Online `(2023)`
+
+- **Python for Everybody Specialization**, University of Michigan `(2021)`  
+  Credential: [D6B6HRENHM2N](https://www.coursera.org/account/accomplishments/specialization/D6B6HRENHM2N)
+
+- **Health Informatics Specialization**, The Johns Hopkins University `(2021)`  
+  Credential: [HQK8DS354HL6](https://www.coursera.org/account/accomplishments/specialization/HQK8DS354HL6)
 
 ---
 
@@ -89,3 +86,21 @@ Legend: 🟢 Core • 🟡 Regular • 🟣 Exploring
 
 <!-- Inline SVG replaced with image for better preview compatibility -->
 
+---
+
+## 📬 Let's Connect & Collaborate
+
+I'm always excited to discuss AI-powered data solutions, product strategy, or new opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitris-koutsomichalis/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DimKouts84)
+
+### 🤝 Open to Opportunities
+- **AI/Data Engineering Roles** - Building intelligent systems that drive business value
+- **Product Management** - Bridging technical excellence with market needs
+- **Consulting Projects** - Helping organizations leverage AI for competitive advantage
+- **Open Source Collaboration** - Contributing to the data/AI community
+
+---
+
+*Let's build something amazing together! 🚀*
