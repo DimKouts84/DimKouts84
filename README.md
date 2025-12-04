@@ -24,7 +24,7 @@
 
 ## 🧰 Tech & Tools (at-a-glance)
 
-| Area | Tools (badges) | Depth |
+| Area | Tools | Depth |
 |---|---|---|
 | **Languages** | [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat&logo=python&logoColor=white&color=1f6feb)](https://www.python.org/) [![SQL](https://img.shields.io/badge/-SQL-1f6feb?style=flat&logo=sqlite&logoColor=white&labelColor=1f6feb)](#) | 🟢🟢🟢🟢 |
 | **Data processing** | [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&color=7C3AED)](https://pandas.pydata.org/) [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-B7312C?style=flat&logo=sqlalchemy&logoColor=white&color=7C3AED)](https://www.sqlalchemy.org/) [![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white&color=7C3AED)](https://docs.pydantic.dev/) | 🟢🟢🟢🟢 |
