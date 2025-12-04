@@ -42,12 +42,12 @@ Legend:   🟢 Core    🟡 Regular    ⚪ Exploring
 
 | Skill | What this looks like | Impact |
 |---|---|---|
-| **Product Thinking** | Start from the problem, constrain scope, iterate with feedback | - Delivers useful MVPs fast - Iterates upon user feedback - Adapts according to needs  |
-| **Stakeholder Comms** | Translate tech to plain language; set clear expectations | Fewer surprises; smoother decisions |
-| **Requirements → Schema** | Map goals to data models (SQL/Graph); design before code | Faster changes; less rework |
-| **Documentation** | API Documentation, Product Requirement Documents, checklists | Easier onboarding & handoffs |
-| **Data Storytelling** | Simple charts and narratives from messy data | Insight that non‑engineers can act on |
-| **Collaboration** | PR discipline, constructive reviews, pairing | Higher code quality; shared ownership |
+| **Product Thinking** | Start from the problem, constrain scope, iterate with feedback | <ul><li>Delivers useful MVPs fast</li><li>Make stuff people want</li><li>Deliver stuff that has impact</li></ul>  |
+| **Stakeholder Comms** | Translate tech to plain language; set clear expectations | <ul><li>Fewer surprises</li><li>Smoother decisions</li></ul>  |
+| **Requirements → Schema** | Map goals to data models (SQL/Graph); design before code | <ul><li>Faster changes</li><li>Less rework</li></ul> |
+| **Documentation** | API Documentation, Product Requirement Documents, checklists | <ul><li>Easier onboarding</li><li>People know what to build</li><li>Better Communication</li></ul> |
+| **Data Storytelling** | Simple charts and narratives from messy data | <ul><li>Non-technicalpeople have visibility</li><li>Data driven decisions</li><li>Data Pipelines for Intelligence Portals or internal tools</li></ul> |
+| **Collaboration** | PR discipline, constructive reviews, pairing | <ul><li>Higher code quality</li><li>Shared ownership</li></ul> |
 
 
 ---
