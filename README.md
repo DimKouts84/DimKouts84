@@ -42,7 +42,7 @@ Legend:   🟢 Core    🟡 Regular    ⚪ Exploring
 
 | Skill | What this looks like | Impact |
 |---|---|---|
-| **Product Thinking** | Start from the problem, constrain scope, iterate with feedback | Delivers useful MVPs fast |
+| **Product Thinking** | Start from the problem, constrain scope, iterate with feedback | - Delivers useful MVPs fast - Iterates upon user feedback - Adapts according to needs  |
 | **Stakeholder Comms** | Translate tech to plain language; set clear expectations | Fewer surprises; smoother decisions |
 | **Requirements → Schema** | Map goals to data models (SQL/Graph); design before code | Faster changes; less rework |
 | **Documentation** | API Documentation, Product Requirement Documents, checklists | Easier onboarding & handoffs |
