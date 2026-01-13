@@ -90,7 +90,7 @@ Legend:   🟢 Core    🟡 Regular    ⚪ Exploring
 
 ## 📬 Let's Connect & Collaborate
 
-I'm always excited to discuss AI-powered data solutions, product strategy, or new opportunities!
+I'm always excited to discuss AI-powered data solutions, product strategy, or new cool projects!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitris-koutsomichalis/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DimKouts84)
