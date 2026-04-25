@@ -8,6 +8,9 @@
 > <br>Building scalable AI-powered data solutions for FinTech & DigitalHealth
 
 
+  <a href="https://dimkouts.dev/">
+    <img src="https://img.shields.io/badge/Website-dimkouts.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
   <a href="https://www.linkedin.com/in/dimitris-koutsomichalis/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -92,6 +95,7 @@ Legend: 🟢 Core • 🟡 Regular • 🟣 Exploring
 
 I'm always excited to discuss AI-powered data solutions, product strategy, or new opportunities!
 
+[![Website](https://img.shields.io/badge/Website-dimkouts.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dimkouts.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitris-koutsomichalis/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DimKouts84)
 
